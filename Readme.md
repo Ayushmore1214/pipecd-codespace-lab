@@ -133,3 +133,6 @@ spec:
 * **404 Errors:** Means the agent is hitting the gateway instead of the server. Use `pipecd-server:9080`.
 * **Config Not Found:** Make sure you pushed `.pipe.yaml` to GitHub. If it's only on your computer, PipeCD can't see it.
 
+  I'll drop a vid and a blog on this soon!
+  
+
